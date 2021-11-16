@@ -1,2 +1,5 @@
 # canny-edge-detection
-Masih belom sempurna
+
+Edge Detection using Canny Edge Detection Algorithm
+
+![](https://github.com/FarhanHP/canny-edge-detection/blob/master/output.png)
